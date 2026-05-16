@@ -178,7 +178,7 @@ Possible future enhancements:
 
 ```bash
 ├── cancer_prediction.ipynb
-├── data.csv
+├── Cancer diesease data.csv
 └── README.md
 ```
 
