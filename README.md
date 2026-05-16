@@ -199,7 +199,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Aditya Kumar**  
-Master's Student in Statistics  
+Master's Student in Statistics, University of Hyderabad
 
 Interested in:
 - Machine Learning
